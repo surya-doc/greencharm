@@ -12,11 +12,11 @@ body{min-height:100%;
     position:relative;
     }
     
-    @media only screen and (max-width: 500px){
+/*     @media only screen and (max-width: 500px){
         .piano_button{
             margin-top: 20%;
         }
-    }
+    } */
     
     .wk{
         width: 60px;
